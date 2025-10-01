@@ -7,7 +7,10 @@
 <h1>Moon</h1>
 <hBusco trabajo o algo para ganar dinero </h2>
 <p>
-  Puedo hacer deberes de ingles desde 4to de primaria hasta 2do de eso
+Voy a empezar a vender cosas que no uso,
+  si alguna te interesa no dudes en contactarme,tambien si eres alguien cercano a mi y quieres que haga algo,
+  no dudes en decirmelo se un poco de todo y eso es todo 
+
 </p>
 <p> moondrop_sb. contactame por discord si te interesa </p>
 
