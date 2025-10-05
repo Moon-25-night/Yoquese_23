@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+}
+
+h1{
+    font-family: sans-serif;
+    color: blue;
+}
+
+
+
+h2 {
+    font-family: fantasy;
+    background-color: aqua;
+}
